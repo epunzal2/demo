@@ -1,2 +1,4 @@
-# demo
-BIOINF575 hw1
+Repo for Testing
+
+We will work with this repo for the BIOINF 575 class
+
